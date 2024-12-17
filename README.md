@@ -44,3 +44,5 @@ I recently donated blood with WeAreBlood in Austin, and was inspired to try and 
 * **Cloud Deployment**: Deploy the system on a cloud platform
 * **On-Premises Deployment**: Deploy the system on a local server
 * **Hybrid Deployment**: Deploy the system on a combination of cloud and on-prem
+
+![mind map](mind-map.png "data")
