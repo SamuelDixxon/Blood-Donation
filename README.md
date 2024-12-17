@@ -4,7 +4,7 @@
 **Background**
 ------------
 
-I recently donated blood with WeAreBlood in Austin, and was inspired to try and design a system to about the blood donation process.
+I recently donated blood with WeAreBlood in Austin, and was inspired to try and design a system for the blood donation process.
 
 **System Requirements**
 ----------------------
