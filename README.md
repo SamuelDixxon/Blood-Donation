@@ -1,5 +1,3 @@
-Here is the rewritten text with the added considerations portion:
-
 # System Design
 ================
 
