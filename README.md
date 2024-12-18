@@ -45,4 +45,9 @@ I recently donated blood with WeAreBlood in Austin, and was inspired to try and 
 * **On-Premises Deployment**: Deploy the system on a local server
 * **Hybrid Deployment**: Deploy the system on a combination of cloud and on-prem
 
+**System Deployment**
+--------------------
+
+Here is my mockup of what the system could be comprised of generated using an online tool callled mural.
+
 ![mind map](mind-map.png "data")
